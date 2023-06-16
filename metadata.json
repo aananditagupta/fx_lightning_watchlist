@@ -1,0 +1,6 @@
+{
+    "name": "com.domain.app.fx_lightning_watchlist",
+    "identifier": "com.domain.app.fx_lightning_watchlist",
+    "version": "1.0.0",
+    "icon": "./static/icon.png"
+  }
