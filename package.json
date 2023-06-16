@@ -1,0 +1,22 @@
+{
+  "name": "fx_lightning_watchlist",
+  "version": "1.0.0",
+  "description": "For this last challenge in our learning TypeScript series, you'll need to create a watchlist for TV Series and Movies using Lightning and TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aananditagupta/fx_lightning_watchlist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aananditagupta/fx_lightning_watchlist/issues"
+  },
+  "homepage": "https://github.com/aananditagupta/fx_lightning_watchlist#readme",
+  "dependencies": {
+    "typescript": "^5.1.3"
+  }
+}
