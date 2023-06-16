@@ -1,6 +1,6 @@
 {
-  "editor.formatOnSave": true,
-  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
   "eslint.validate": [
     "javascript",
     "typescript"
